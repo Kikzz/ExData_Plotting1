@@ -1,3 +1,10 @@
+## Instructions
+Copy the 5 *.R files to your working directory and run command:  
+Source("Get_files_and_draw_graphs.R")  
+
+
+
+
 ## Introduction
 
 This assignment uses data from
