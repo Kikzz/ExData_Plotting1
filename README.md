@@ -1,7 +1,7 @@
 ## Instructions
 Copy the 5 *.R files to your working directory and run command:  
 
-*Source("Get_files_and_draw_plots.R")* 
+<b>Source("get_files_and_draw_plots.R")</b>
 
 
 
